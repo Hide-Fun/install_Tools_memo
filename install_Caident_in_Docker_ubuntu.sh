@@ -37,4 +37,3 @@ sh installUCHIMEDB_Debian.sh
 # 4: In i.p(...) :
 #   installation of package '/tmp/RtmpTHOR4T/file8f57699faad3/dada2_1.16.0.tar.gz' had non-zero exit status
 
-docker commit -m "Install Claident (No-Database)" -a "Hideito Okada" 6fd5760039d9 claident_v0.9.2020.12.06
